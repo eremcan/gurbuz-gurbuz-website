@@ -63,16 +63,17 @@ strong { font-weight: bold; }
     height: 63px;
     padding: 30px 0;
     background: url(../img/logo.png) 20px center no-repeat;
-    margin-left: 56%;
+    margin-left: 36%;
 }
 
 .header ul.nav {
     font-size: 14px;
     text-transform: uppercase;
+    margin-left: 52px;
 }
 
 .header ul.nav li a {
-    padding: 30px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
     color: #5d5d5d;
     text-shadow: none;
 }
@@ -94,6 +95,16 @@ strong { font-weight: bold; }
 }
 
 .header ul.nav li a:hover i { color: #fff; }
+
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+.img-width-full{
+    width: 100% !important;
+    margin: 4% auto;
+}
 
 
 /* ----- Slider ----- */
@@ -187,12 +198,13 @@ strong { font-weight: bold; }
     -ms-transition: all .5s;
 }
 
-.what-we-do .service .icon-awesome {
+.what-we-do .service .icon-awesome, .what-we-do .service .fa  {
     margin-top: 15px;
     font-size: 50px;
     line-height: 50px;
     color: #5d5d5d;
 }
+
 
 .what-we-do .service h4 {
     margin-top: 5px;
@@ -1046,97 +1058,126 @@ ul.portfolio-img li {
     .call-to-action-text .ca-button {
         margin-top: 10px;
     }
+    .header a.brand {
+        width: 80%;
+        height: 58px;
+        padding: 30px 0;
+        background: url(../img/logo.png) 20px center no-repeat;
+        background-size: 44%;
+        margin-left: 7%;
+
+    }
+    .navbar .btn-navbar {
+        height: 18px;
+        margin-top: 8%;
+    }
+    .navbar .btn-navbar .icon-bar{
+        width: 50px;
+    }
+
 
 }
 
-@media (max-width: 767px) {
+    @media (max-width: 767px) {
 
-    body {
-        padding-left: 0;
-        padding-right: 0;
+        body {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        .slider, .what-we-do, .portfolio {
+            padding: 0 20px;
+        }
+
+        .what-we-do {
+            margin-top: 30px;
+        }
+
+        .header ul.nav li a {
+            padding: 15px 20px 15px 20px;
+            font-weight: normal;
+            text-align: left;
+            -moz-border-radius: 0;
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+
+        .header ul.nav li.current-page a {
+            padding-top: 15px;
+        }
+
+        .header ul.nav li a i, .header ul.nav li a br {
+            display: none;
+        }
+
+        .flex-caption {
+            display: none;
+        }
+
+        .presentation, footer, .testimonials {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        .presentation p {
+            line-height: 30px;
+        }
+
+        .what-we-do .service p, .portfolio .work p {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .what-we-do .service .icon-awesome {
+            padding-top: 10px;
+        }
+
+        .page-title p {
+            display: block;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
+
+        .call-to-action-text {
+            padding-bottom: 30px;
+        }
+
+        .call-to-action-text .ca-text {
+            padding: 0 35px;
+        }
+
+        .call-to-action-text .ca-button {
+            margin-top: 10px;
+        }
+
+        .portfolio-page {
+            padding-bottom: 50px;
+        }
+
+        .tweet_list {
+            height: 6em;
+        }
+
     }
 
-    .slider, .what-we-do, .portfolio {
-        padding: 0 20px;
+    @media (max-width: 480px) {
+
+        .tweet_list {
+            height: 10em;
+        }
+
+        .header a.brand {
+            width: 81%;
+            height: 58px;
+            padding: 30px 0;
+            background: url(../img/logo.png) 0px center no-repeat;
+            background-size: 80%;
+            margin-left: 0px;
+
+        }
+        .navbar .btn-navbar {
+
+            margin-top: 13%;
+        }
+
     }
-
-    .what-we-do {
-        margin-top: 30px;
-    }
-
-    .header ul.nav li a {
-        padding: 15px 20px 15px 20px;
-        font-weight: normal;
-        text-align: left;
-        -moz-border-radius: 0;
-        -webkit-border-radius: 0;
-        border-radius: 0;
-    }
-
-    .header ul.nav li.current-page a {
-        padding-top: 15px;
-    }
-
-    .header ul.nav li a i, .header ul.nav li a br {
-        display: none;
-    }
-
-    .flex-caption {
-        display: none;
-    }
-
-    .presentation, footer, .testimonials {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-    .presentation p {
-        line-height: 30px;
-    }
-
-    .what-we-do .service p, .portfolio .work p {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
-    .what-we-do .service .icon-awesome {
-        padding-top: 10px;
-    }
-
-    .page-title p {
-        display: block;
-        margin-top: 10px;
-        margin-left: 20px;
-    }
-
-    .call-to-action-text {
-        padding-bottom: 30px;
-    }
-
-    .call-to-action-text .ca-text {
-        padding: 0 35px;
-    }
-
-    .call-to-action-text .ca-button {
-        margin-top: 10px;
-    }
-
-    .portfolio-page {
-        padding-bottom: 50px;
-    }
-
-    .tweet_list {
-        height: 6em;
-    }
-
-}
-
-@media (max-width: 480px) {
-
-    .tweet_list {
-        height: 10em;
-    }
-
-}
-
-
