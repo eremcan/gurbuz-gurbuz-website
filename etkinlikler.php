@@ -13,7 +13,7 @@
             </div>
         </div>
 
-        <!-- Portfolio -->
+        <!-- Portfolio  -->
         <div class="portfolio portfolio-page container">
             <div class="row">
                 <div class="portfolio-navigator span12">
