@@ -12,7 +12,7 @@
             <h4 class="pagination-centered">Kariyerinizde bir adım önde...</h4>
             <p class="pagination-centered"> Başvuru Yazıları...
                 <br>
-                Tüm başvurularınızı <a href="mailto:cagatayerem@gmail.com?Subject=Gürbüz-Gürbüz%20new%20applicant" target="_top"> cagatayerem@gmail.com </a>'a gönderebilirsiniz.</p>
+                Tüm başvurularınızı <a href="mailto:info@gurbuz-gurbuz.av.tr?Subject=Gürbüz-Gürbüz%20new%20applicant" target="_top"> info@gurbuz-gurbuz.av.tr </a>'a gönderebilirsiniz.</p>
         </div>
     </div>
 </div>

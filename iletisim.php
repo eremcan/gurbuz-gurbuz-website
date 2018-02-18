@@ -32,18 +32,19 @@
                 </form>
             </div>
             <div class="contact-address span5">
-                <h4>We Are Here</h4>
+                <h4>Gürbüz & Gürbüz Hukuk Bürosu</h4>
                 <div class="" style="width: 100%">
                     <iframe width="100%" height="400" frameborder="0" style="border:0"
 
-                            src="https://www.google.com/maps/embed/v1/place?q=ba%C5%9Fak%20pasaj%C4%B1&key= AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE "
+                            src="https://www.google.com/maps/embed/v1/place?q=engiz%20Topel%20Cd.%20N%3A192&key=AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE "
                             allowfullscreen></iframe>
                 </div>
                 <br/>
 
-                <h4>Address</h4>
-                <p>Via Principe Amedeo 9 <br> 10100, Torino, TO, Italy</p>
-                <p>Phone: 0039 333 12 68 347</p>
+                <h4>Adres</h4>
+                <p>Cengiz Topel Cd. N:192 Başak İş Merkezi
+                    Kat:2/46-47-50 <br> Küçükköy - İSTANBUL</p>
+                <p>Telefon: 0 (212) 538 0718</p>
             </div>
 
         </div>
