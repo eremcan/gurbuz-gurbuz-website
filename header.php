@@ -73,15 +73,15 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                                 <a href="etkinlikler.php"><i class="icon-camera"></i><br />ETKİNLİKLER</a>
                             </li>
 
-                            <li>
-                                <a href="portfolio.html"><i class="icon-link"></i><br />FAYDALI LİNKLER</a>
+                            <li class=" <?= ($activePage == 'faydali-linkler') ? 'current-page':'';  ?>" >
+                                <a href="faydali-linkler.php"><i class="icon-link"></i><br />FAYDALI LİNKLER</a>
                             </li>
 
-                            <li>
-                                <a href="contact.html"><i class="icon-road"></i><br />KARİYER</a>
+                            <li  class=" <?= ($activePage == 'kariyer') ? 'current-page':'';  ?>">
+                                <a href="kariyer.php"><i class="icon-road"></i><br />KARİYER</a>
                             </li>
-                            <li>
-                                <a href="contact.html"><i class="icon-envelope-alt"></i><br />İLETİŞİM</a>
+                            <li class=" <?= ($activePage == 'iletisim') ? 'current-page':'';  ?>">
+                                <a href="iletisim.php"><i class="icon-envelope-alt"></i><br />İLETİŞİM</a>
                             </li>
                         </ul>
                     </div>

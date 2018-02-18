@@ -1,19 +1,5 @@
 <?php include 'header.php'; ?>
 
-<!-- Page Title -->
-<div class="page-title">
-    <div class="container">
-        <div class="row">
-            <div class="span12">
-                <i class="icon-user page-title-icon"></i>
-                <h2>Ekibimiz /</h2>
-                <p>Ekibimiz hakkında bilgiler edinebileceğiniz alan...</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-
 <div class="">
     <img src="assets/img/about-us.jpg" alt=" " class="img-width-full">
 </div>
@@ -22,29 +8,81 @@
     <div class="team-title">
         <h3>Ekibimiz</h3>
     </div>
-    <div class="row">
+
+    <div class="ekibimiz-title">
+        <h2>Avukatlarımız</h2>
+    </div>
+    <div class="row team-member-name">
         <div class="team-text span3">
-            <img src="assets/img/team/1.jpg" alt="">
-            <h4>John Doe</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="social-links">
-                <a class="facebook" href=""></a>
-                <a class="twitter" href=""></a>
-                <a class="linkedin" href=""></a>
-                <a class="email" href=""></a>
-            </div>
+            <h3>John Doe</h3>
+            <p>Kurucu Ortak</p>
+
         </div>
+
+        <div class="span8 team-aciklama">
+          <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</h4>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+            </div>
+
+        </div>
+    <div class="team-member-seperator"></div>
+
+    <div class="row team-member-name">
         <div class="team-text span3">
-            <img src="assets/img/team/2.jpg" alt="">
-            <h4>Jane Doe</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="social-links">
-                <a class="facebook" href=""></a>
-                <a class="twitter" href=""></a>
-                <a class="linkedin" href=""></a>
-                <a class="email" href=""></a>
-            </div>
+            <h3>John Doe</h3>
+            <p>Kurucu Ortak</p>
+
         </div>
+
+        <div class="span8 team-aciklama">
+            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</h4>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+        </div>
+
+    </div>
+    <div class="team-member-seperator"></div>
+
+    <div class="row team-member-name">
+        <div class="team-text span3">
+            <h3>John Doe</h3>
+            <p>Kurucu Ortak</p>
+
+        </div>
+
+        <div class="span8 team-aciklama">
+            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</h4>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+        </div>
+
+    </div>
+    <div class="team-title margin-top-2p ">
+        <p>&nbsp;</p>
+    </div>
+
+    <div class="ekibimiz-title">
+        <h2>İdari Kadromuz</h2>
+    </div>
+    <div class="row team-member-name margin-bottom-3p">
+        <div class="team-text span3">
+            <h3>John Doe</h3>
+            <p>Kurucu Ortak</p>
+
+        </div>
+
+        <div class="span8 team-aciklama">
+            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</h4>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+        </div>
+
+    </div>
+   <!-- <div class="team-member-seperator"></div>
+
+
+
         <div class="team-text span3">
             <img src="assets/img/team/3.jpg" alt="">
             <h4>Tim Brown</h4>
@@ -67,7 +105,7 @@
                 <a class="email" href=""></a>
             </div>
         </div>
+        -->
     </div>
-</div>
 
 <?php include 'footer.php'; ?>

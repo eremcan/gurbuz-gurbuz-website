@@ -105,6 +105,44 @@ strong { font-weight: bold; }
     width: 100% !important;
     margin: 4% auto;
 }
+.team-aciklama{
+    margin-top: 40px;
+}
+.team-member-seperator{
+    margin: 2% auto;
+    padding: 2px 0 2px 0;
+    background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
+    -moz-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset, 0 -5px 15px 0 rgba(0,0,0,.05) inset;
+    -webkit-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset, 0 -5px 15px 0 rgba(0,0,0,.05) inset;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset, 0 -5px 15px 0 rgba(0,0,0,.05) inset;
+    text-align: left;
+
+}
+.ekibimiz-title h2{
+    color: #5d5d5d;
+}
+.team-member-name h3{
+    margin-top: 20px;
+    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+    color: #5d5d5d;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+}
+.margin-top-2p{
+    margin-top: 2%;
+}
+.margin-bottom-3p{
+    margin-bottom: 3%;
+}
+.faydali-linkler h4{
+    color: #5d5d5d;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
 
 
 /* ----- Slider ----- */
@@ -719,12 +757,14 @@ footer .social a:hover { background-position: left top; }
     color: #5d5d5d;
     text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    text-align: center;
 }
 
 .contact-us p {
     padding: 0 20px;
     line-height: 28px;
     font-size: 13px;
+    text-align: center;
 }
 
 .contact-form {
