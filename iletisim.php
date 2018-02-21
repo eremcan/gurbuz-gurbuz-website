@@ -5,8 +5,8 @@
             <div class="row">
                 <div class="span12">
                     <i class="icon-envelope-alt page-title-icon"></i>
-                    <h2>Contact Us /</h2>
-                    <p>Here is how you can contact us</p>
+                    <h2>Bize Ulaşın</h2>
+
                 </div>
             </div>
         </div>
@@ -16,28 +16,23 @@
     <div class="contact-us container">
         <div class="row">
             <div class="contact-form span7">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                    et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <a href="#">Gürbüz &
-                        Gürbüz</a> nisl ut aliquip ex ea commodo consequat.</p>
+                <p>Gürbüz & Gürbüz Hukuk Bürosu ile iletişime geçmek için lütfen aşağıdaki formu doldurunuz.</p>
                 <form method="post" action="assets/sendmail.php">
-                    <label for="name" class="nameLabel">Name</label>
-                    <input id="name" type="text" name="name" placeholder="Enter your name...">
-                    <label for="email" class="emailLabel">Email</label>
-                    <input id="email" type="text" name="email" placeholder="Enter your email...">
-                    <label for="subject">Subject</label>
-                    <input id="subject" type="text" name="subject" placeholder="Your subject...">
-                    <label for="message" class="messageLabel">Message</label>
-                    <textarea id="message" name="message" placeholder="Your message..."></textarea>
-                    <button type="submit">Send</button>
+                    <label for="name" class="nameLabel">İsim</label>
+                    <input id="name" type="text" name="name" placeholder="İsminiz...">
+                    <label for="email" class="emailLabel">E-mail</label>
+                    <input id="email" type="text" name="email" placeholder="Emailiniz...">
+                    <label for="subject">Konu</label>
+                    <input id="subject" type="text" name="subject" placeholder="Konu...">
+                    <label for="message" class="messageLabel">Mesaj</label>
+                    <textarea id="message" name="message" placeholder="Mesajınız..."></textarea>
+                    <button type="submit">Gönder</button>
                 </form>
             </div>
             <div class="contact-address span5">
                 <h4>Gürbüz & Gürbüz Hukuk Bürosu</h4>
                 <div class="" style="width: 100%">
-                    <iframe width="100%" height="400" frameborder="0" style="border:0"
-
-                            src="https://www.google.com/maps/embed/v1/place?q=engiz%20Topel%20Cd.%20N%3A192&key=AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE "
-                            allowfullscreen></iframe>
+                    <div style="width: 100%"><iframe width="100%" height="400" src="https://maps.google.com/maps?width=100%&amp;height=400&amp;hl=en&amp;q=Cengiz%20Topel%20Cd.%20N%3A192%20Kucukkoy+(G%C3%BCrb%C3%BCz%20%26%20G%C3%BCrb%C3%BCz%20Hukuk%20B%C3%BCrosu)&amp;ie=UTF8&amp;t=&amp;z=17&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Embed Google Map</a></iframe></div><br />
                 </div>
                 <br/>
 

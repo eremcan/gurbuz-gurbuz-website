@@ -17,7 +17,7 @@
     <div class="about-us container">
         <div class="row">
             <div class="about-us-text span12">
-                <h4>Gürbüz & Gürbüz Hukuk Bürosu</h4>
+                <h4>GÜRBÜZ & GÜRBÜZ HUKUK BÜROSU</h4>
                 <p>GÜRBÜZ & GÜRBÜZ, <strong>Av. Hüseyin GÜRBÜZ</strong> tarafından 1974 yılında İstanbul’da kurulmuş olup 2003 yılında Av. Aytekin GÜRBÜZ’ün katılımıyla  <span class="violet"> GÜRBÜZ & GÜRBÜZ Hukuk Bürosu </span> ismini almıştır.
                     Kurulduğu günden bu yana, sağlam ve çözüm odaklı hukuk hizmetlerini sunan büromuz çok uluslu ve yerel şirketler başta olmak üzere, yine yabancı ve
                     yerel birçok gerçek şahıs Müvekkiline güvenilir ve memnuniyet verici hizmetler sağlamaya devam etmektedir.
@@ -26,12 +26,12 @@
 
 
                 </p>
-                <h4>Misyonumuz</h4>
+                <h4>MİSYONUMUZ</h4>
                 <p>Hem yerel hem denizaşırı, hukukun uzmanlık edindiğimiz her alanında iş takibi ve hukuki argüman üretmeyi benimsemiş tecrübeli ekibimiz,
                     dünyadaki tüm hukuk sistemlerini ve hukukun bütün dallarının bu sistemlerle irtibatını ve yeni hukuki gelişmeleri yakından takip
                     ederek çok geniş bir perspektife sahiptir.
                 </p>
-                <h4>Neden Biz?</h4>
+                <h4>NEDEN BİZ?</h4>
                <p>Türkiye’ye yatırım yapan ve yapmayı düşünen yabancılar ile yerel kişi ya da kuruluşlara en uygun ve makul hukuki
                    çözüm hizmetlerini sağlayabilecek büromuz tam donanımlı uzman kadrosu ile hizmetinizde olup her mecrada sizlerin vekili
                    olmaya hazırdır.

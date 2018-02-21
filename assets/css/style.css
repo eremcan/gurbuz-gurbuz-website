@@ -7,7 +7,11 @@
  * Author URI: http://azmind.com
  *
  */
+html{
+    zoom: 90%;
+    -moz-transform: scale(1);
 
+}
 
 body {
     background: #fff;
@@ -59,12 +63,14 @@ strong { font-weight: bold; }
 .header a.brand {
     display: inline-block;
     text-indent: -9999px;
-    width: 280px;
+    width: 30%;
     height: 63px;
     padding: 30px 0;
-    background: url(../img/logo.png) 20px center no-repeat;
-    margin-left: 36%;
+    background: url(../img/logo.png) center center no-repeat;
+    margin-left: 35%;
+    background-size: contain;
 }
+
 
 .header ul.nav {
     font-size: 14px;
@@ -477,10 +483,8 @@ footer .widget {
 
 footer .widget h4 {
     margin-top: 20px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
     font-size: 14px;
     color: #5d5d5d;
-    text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
 }
 
@@ -641,10 +645,8 @@ footer .social a:hover { background-position: left top; }
 .about-us-text h4 {
     margin-top: 25px;
     padding: 0 20px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
     font-size: 16px;
     color: #5d5d5d;
-    text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
 }
 

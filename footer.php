@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="widget span3">
-                        <h4>Hakkımızda</h4>
+                        <h4>HAKKIMIZDA</h4>
                         <p><p>GÜRBÜZ & GÜRBÜZ, <strong>Av. Hüseyin GÜRBÜZ</strong> tarafından 1974 yılında İstanbul’da kurulmuş olup 2003 yılında Av. Aytekin GÜRBÜZ’ün katılımıyla  <span class="violet"> GÜRBÜZ & GÜRBÜZ Hukuk Bürosu </span> ismini almıştır.
                             Kurulduğu günden bu yana...
                         <p><a href="hakkimizda.php">devamı...</a></p>
@@ -18,11 +18,12 @@
                         <ul class="flickr-feed"></ul>
                     </div>
                     <div class="widget span3">
-                        <h4>Bize Ulaşın</h4>
+                        <h4>BİZE ULAŞIN</h4>
                         <p><i class="icon-map-marker"></i> Adres: Cengiz Topel Cd. N:192 Başak İş Merkezi
                             Kat:2/46-47-50 Küçükköy-İST</p>
                         <p><i class="icon-phone"></i> Telefon: 0 (212) 538 0718</p>
-                        <p><i class="icon-user"></i> Aytekin Gürbüz</p>
+                        <p><i class="fa fa-fax"></i> Fax: 0 (212) 538 0987</p>
+                        <p><i class="icon-user"></i> Gürbüz & Gürbüz Hukuk Bürosu</p>
                         <p><i class="icon-envelope-alt"></i> Email: <a href="">info@gurbuz-gurbuz.av.tr</a></p>
                     </div>
                 </div>
