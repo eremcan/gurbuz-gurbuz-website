@@ -87,7 +87,7 @@
     <div class="row team-member-name margin-bottom-3p">
         <div class="team-text span3">
             <h3>Hasan KARAKUŞ</h3>
-            <p>Katip</p>
+            <p>Katip </p>
 
         </div>
 
