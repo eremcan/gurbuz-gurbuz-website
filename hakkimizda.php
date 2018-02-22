@@ -44,7 +44,7 @@
 
 
     <!-- Testimonials -->
-    <div class="testimonials container">
+    <div class="testimonials container wow fadeInDown">
         <div class="testimonials-title">
             <h3>Testimonials</h3>
         </div>

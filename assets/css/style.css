@@ -147,6 +147,20 @@ strong { font-weight: bold; }
 .text-right{
     text-align: right;
 }
+.work.span3 img {
+    height: 137px;
+    width: 100%;
+}
+.faydali-linkler-aciklama{
+    font-size: 10px;
+}
+.faydali-linkler-baslik{
+    font-size: 20px;
+    line-height: 10px;
+}
+.faydali-linkler-link-size{
+    font-size: 15px;
+}
 
 
 /* ----- Slider ----- */
@@ -223,13 +237,15 @@ strong { font-weight: bold; }
     margin-top: 50px;
 }
 
-.what-we-do .service {
-    padding-bottom: 23px;
+.what-we-do .service, .what-we-do .serviceindex {
+    padding-bottom: 10px;
     background: #f8f8f8;
     border-bottom: 2px solid #9d426b;
+    margin-bottom: 20px;
+
 }
 
-.what-we-do .service:hover {
+.what-we-do .service:hover, .what-we-do .serviceindex:hover {
     box-shadow:
         0 5px 15px 0 rgba(0,0,0,.05),
         0 1px 25px 0 rgba(0,0,0,.05) inset,
@@ -239,8 +255,28 @@ strong { font-weight: bold; }
     -webkit-transition: all .5s;
     -ms-transition: all .5s;
 }
+.what-we-do .serviceindex {
+    padding-bottom: 10px;
+    background: #f8f8f8;
+    margin-bottom: 20px;
+    box-shadow:
+            0 5px 15px 0 rgba(0,0,0,.05),
+            0 1px 25px 0 rgba(0,0,0,.05) inset,
+            0 -1px 25px 0 rgba(0,0,0,.05) inset;
+}
 
-.what-we-do .service .icon-awesome, .what-we-do .service .fa  {
+.what-we-do .serviceindex:hover {
+    box-shadow:
+            0 5px 15px 0 rgba(0,0,0,.00),
+            0 1px 25px 0 rgba(0,0,0,.00) inset,
+            0 -1px 25px 0 rgba(0,0,0,.00) inset;
+    -o-transition: all .5s;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    -ms-transition: all .5s;
+}
+
+.what-we-do .service .icon-awesome, .what-we-do .serviceindex .fa,.what-we-do .serviceindex .icon-awesome, .what-we-do .serviceindex .fa  {
     margin-top: 15px;
     font-size: 50px;
     line-height: 50px;
@@ -248,21 +284,19 @@ strong { font-weight: bold; }
 }
 
 
-.what-we-do .service h4 {
+.what-we-do .service h4, .what-we-do .serviceindex h4 {
     margin-top: 5px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
     font-size: 14px;
     color: #5d5d5d;
-    text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
 }
 
-.what-we-do .service p {
+.what-we-do .service p .what-we-do .serviceindex p{
     padding-bottom: 10px;
     line-height: 24px;
 }
 
-.what-we-do .service a {
+.what-we-do .service a , .what-we-do .serviceindex a{
     padding: 5px 22px;
     background: #9d426b;
     color: #fff;
@@ -279,13 +313,13 @@ strong { font-weight: bold; }
         0 -1px 25px 0 rgba(0,0,0,.05) inset;
 }
 
-.what-we-do .service a:hover {
+.what-we-do .service a:hover, .what-we-do .serviceindex a:hover {
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 
-.what-we-do .service a:active {
+.what-we-do .service a:active, .what-we-do .serviceindex a:active {
     -moz-box-shadow:
         0 5px 10px 0 rgba(0,0,0,.15) inset,
         0 -1px 25px 0 rgba(0,0,0,.05) inset;
@@ -322,6 +356,10 @@ strong { font-weight: bold; }
     padding-bottom: 20px;
     background: #f8f8f8;
     border-bottom: 2px solid #9d426b;
+    min-height: 461px;
+}
+.portfolio .heightdisable{
+    min-height: unset;
 }
 
 .portfolio .work:hover img {
@@ -429,12 +467,13 @@ strong { font-weight: bold; }
 
 .testimonial-list img {
     float: left;
-    margin: 10px 0 0 60px;
+    margin: 10px 60px 0 60px;
     border: 3px solid #eaeaea;
+    width: 25%;
 }
 
 .testimonial-list p {
-    padding: 0 60px 0 150px;
+    padding: 3% 60px 0 150px;
     font-size: 14px;
     line-height: 30px;
     font-style: italic;
@@ -1041,7 +1080,7 @@ ul.portfolio-img li {
         max-width: 700px;
     }
 
-    .what-we-do .service p, .portfolio .work p {
+    .what-we-do .service p, .portfolio .work p, .what-we-do .serviceindex p {
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -1083,7 +1122,7 @@ ul.portfolio-img li {
         max-width: 500px;
     }
 
-    .what-we-do .service p, .portfolio .work p {
+    .what-we-do .service p, .portfolio .work p, .what-we-do .serviceindex p {
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -1164,12 +1203,12 @@ ul.portfolio-img li {
             line-height: 30px;
         }
 
-        .what-we-do .service p, .portfolio .work p {
+        .what-we-do .service p, .portfolio .work p, .what-we-do .serviceindex p {
             padding-left: 10px;
             padding-right: 10px;
         }
 
-        .what-we-do .service .icon-awesome {
+        .what-we-do .service .icon-awesome, .what-we-do .serviceindex {
             padding-top: 10px;
         }
 

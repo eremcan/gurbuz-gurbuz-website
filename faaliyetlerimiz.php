@@ -25,7 +25,7 @@
             <div class="row">
                 <ul class="portfolio-img">
                     <li data-id="p-1" data-type="web-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work1.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work1.jpg" alt="">
                             </a>
@@ -34,7 +34,7 @@
                         </div>
                     </li>
                     <li data-id="p-2" data-type="logo-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work2.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work2.jpg" alt="">
                             </a>
@@ -43,7 +43,7 @@
                         </div>
                     </li>
                     <li data-id="p-3" data-type="print-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work3.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work3.jpg" alt="">
                             </a>
@@ -52,7 +52,7 @@
                         </div>
                     </li>
                     <li data-id="p-4" data-type="web-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work4.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work4.jpg" alt="">
                             </a>
@@ -72,25 +72,25 @@
             <div class="row">
                 <ul class="portfolio-img">
                     <li data-id="p-1" data-type="web-design" class="span3">
-                        <div class="work">
-                            <a href="assets/img/portfolio/work1.jpg" rel="prettyPhoto">
-                                <img src="assets/img/portfolio/work1.jpg" alt="">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/work1.jpg" rel="prettyPhoto" data-lightbox="example-1" >
+                                <img src="assets/img/portfolio/work1.jpg" alt="image-1">
                             </a>
                             <h4>Lorem Website</h4>
 
                         </div>
                     </li>
                     <li data-id="p-2" data-type="logo-design" class="span3">
-                        <div class="work">
-                            <a href="assets/img/portfolio/work2.jpg" rel="prettyPhoto">
-                                <img src="assets/img/portfolio/work2.jpg" alt="">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/work2.jpg" rel="prettyPhoto" data-lightbox="example-2">
+                                <img src="assets/img/portfolio/work2.jpg" alt="image-1">
                             </a>
                             <h4>Ipsum Logo</h4>
 
                         </div>
                     </li>
                     <li data-id="p-3" data-type="print-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work3.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work3.jpg" alt="">
                             </a>
@@ -99,7 +99,7 @@
                         </div>
                     </li>
                     <li data-id="p-4" data-type="web-design" class="span3">
-                        <div class="work">
+                        <div class="work heightdisable">
                             <a href="assets/img/portfolio/work4.jpg" rel="prettyPhoto">
                                 <img src="assets/img/portfolio/work4.jpg" alt="">
                             </a>

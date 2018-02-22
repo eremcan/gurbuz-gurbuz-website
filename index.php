@@ -47,81 +47,87 @@
                 <i class="fa fa-globe"></i>
             </div>
             <h4>CISG Türkiye</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                et...</p>
-            <a href="services.html">Read more</a>
+            <p>Türkiye’nin de taraf olduğu 1980 tarihli “CISG” (Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması)...</p>
+            <a href="cisg-turkiye.php">Fazlası...</a>
         </div>
         <div class="service span3">
             <div class="icon-awesome">
                 <i class="fa fa-trophy"></i>
             </div>
             <h4>SPOR HUKUKU</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                et...</p>
-            <a href="services.html">Read more</a>
+           <p>Amerika’da 80’li, Avrupa’da ise 90’lı yıllarda gelişimini tamamlayan ve halen dünyada yükselen hukuk dalı olan Spor Hukuku’na dair...</p>
+            <a href="spor-hukuku.php">Fazlası...</a>
         </div>
         <div class="service span3">
             <div class="icon-awesome">
                 <i class="fa fa-gavel"></i>
             </div>
             <h4>TAHKİM</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                et...</p>
-            <a href="services.html">Read more</a>
+              <p>Alternatif uyuşmazlık çözüm yollarından en bilindiği olan tahkim kendine has yargılama kuralları ve Mahkemelere göre daha pratik...</p>
+            <a href="tahkim.php">Fazlası...</a>
         </div>
         <div class="service span3">
             <div class="icon-awesome">
                 <i class="fa fa-pencil-alt"></i>
             </div>
             <h4>YENİ SÖZLEŞMELER</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                et...</p>
-            <a href="services.html">Read more</a>
+            <p>Genelde kanun ile düzenlenmeyen sözleşmeler olarak bilinen Yeni Sözleşmeler kökenini yüksek mertebede...</p>
+            <a href="yeni-sozlesmeler.php">Fazlası...</a>
         </div>
     </div>
 </div>
 
 <!-- Latest Work -->
+
 <div class="portfolio container">
     <div class="portfolio-title">
-        <h3>Our Latest Work</h3>
+        <h3>Güncel Faaliyetler</h3>
     </div>
     <div class="row">
         <div class="work span3">
-            <img src="assets/img/portfolio/work1.jpg" alt="">
-            <h4>Lorem Website</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="icon-awesome">
-                <a href="assets/img/portfolio/work1.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
-                <a href="portfolio.html"><i class="icon-link"></i></a>
-            </div>
+            <a href="assets/img/index/casveaihmyargılaması-1.jpg" rel="prettyPhoto">
+            <img src="assets/img/index/casveaihmyargılaması-1.jpg" alt=""></a>
+            <h4>CAS VE AİHM YARGILAMASI</h4>
+            <p>Adana Barosu ile Spor Hukuku Enstitüsü Derneği’nin 10-11 Şubat 2018 tarihlerinde Adana’da ortaklaşa düzenlediği Spor Hukuku Programında, yönetici ortağımız Av. Aytekin GÜRBÜZ, Spor Tahkim Mahkemesi (CAS) Kodu’nun (Code of Sports-related Arbitration) güncel versiyonundaki değişiklikleri, CAS yargılama usullerini ve emsal CAS kararları ile Avrupa İnsan Hakları Mahkemesi’nden Spor Hukuku ile ilgili verilmiş güncel ve emsal kararları katılımcılara anlatmıştır. </p>
+            <!-- <div class="icon-awesome">
+
+               <a href="portfolio.html"><i class="icon-link"></i></a>
+           </div>-->
+       </div>
+
+       <div class="work span3">
+           <a href="assets/img/index/sporyaralanmalari.jpg" rel="prettyPhoto">
+               <img src="assets/img/index/sporyaralanmalari.jpg" alt=""></a>
+           <h4>SPOR YARALANMALARI SEMPOZYUMU</h4>
+           <p>Üsküdar Üniversitesince 21-22 Nisan 2017 tarihlerinde düzenlenen Spor Yaralanmalarında Farklı Bakış Açılarıyla Güncel Tedavi ve Rehabilitasyon Yaklaşımları-II Sempozyumu’nda, yönetici ortağımız Av. Aytekin GÜRBÜZ, Spor Hukuku özel oturumunda Spor Sahalarında Yaşanan Sporcu Yaralanmaları konusunda Spor Disiplin Hukuku açısından yurtdışı örnekleriyle değerlendirmelerde bulunup bu konuda sempozyuma katkıda bulunmuştur. </p>
+           <!--  <div class="icon-awesome">
+               <a href="assets/img/portfolio/work2.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
+               <a href="portfolio.html"><i class="icon-link"></i></a>
+           </div>
+           -->
         </div>
         <div class="work span3">
-            <img src="assets/img/portfolio/work2.jpg" alt="">
-            <h4>Ipsum Logo</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="icon-awesome">
-                <a href="assets/img/portfolio/work2.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
-                <a href="portfolio.html"><i class="icon-link"></i></a>
-            </div>
-        </div>
-        <div class="work span3">
-            <img src="assets/img/portfolio/work3.jpg" alt="">
-            <h4>Dolor Prints</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="icon-awesome">
-                <a href="assets/img/portfolio/work3.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
-                <a href="portfolio.html"><i class="icon-link"></i></a>
-            </div>
-        </div>
-        <div class="work span3">
-            <img src="assets/img/portfolio/work4.jpg" alt="">
-            <h4>Sit Amet Website</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
-            <div class="icon-awesome">
-                <a href="assets/img/portfolio/work4.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
-                <a href="portfolio.html"><i class="icon-link"></i></a>
-            </div>
+            <a href="assets/img/index/saygigunu.jpeg" rel="prettyPhoto">
+                <img src="assets/img/index/saygigunu.jpeg" alt=""></a>
+            <h4>SAYGI GÜNÜ</h4>
+            <p>Doğuş Üniversitesi’nde 21 Aralık 2016 tarihinde gerçekleşen “Sporda Güncel Gelişmeler” konulu panelde, Türker Arslan’a saygı günü olarak adlandırılan özel oturumun sonunda, yönetici ortağımız Av. Aytekin GÜRBÜZ bir konuşma gerçekleştirmiştir.</p>
+            <!-- <div class="icon-awesome">
+               <a href="assets/img/portfolio/work3.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
+               <a href="portfolio.html"><i class="icon-link"></i></a>
+           </div>
+           -->
+       </div>
+       <div class="work span3">
+           <a href="assets/img/index/finansalfairplay.jpg" rel="prettyPhoto">
+           <img src="assets/img/index/finansalfairplay.jpg" alt="">
+           </a>
+           <h4>FİNANSAL FAIR PLAY SEMİNERİ</h4>
+           <p>Bursa Barosu tarafından 18 Eylül 2015 tarihinde Bursa’da gerçekleştirilen Spor Kulüpleri Güncel Sorunları Mali Fair Play Kuralları seminerinde yönetici ortağımız Av. Aytekin GÜRBÜZ Spor Tahkim Mahkemesi (CAS) tarafından finansal fair play konusunda verilmiş emsal kararları katılımcılara anlatmış ve değerlendirmelerde bulunmuştur. </p>
+          <!--  <div class="icon-awesome">
+               <a href="assets/img/portfolio/work4.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
+               <a href="portfolio.html"><i class="icon-link"></i></a>
+           </div>
+           -->
         </div>
     </div>
 </div>
@@ -129,50 +135,39 @@
 <!-- Testimonials -->
 <div class="testimonials container">
     <div class="testimonials-title">
-        <h3>Testimonials</h3>
+        <h3>Ödüllerimiz</h3>
     </div>
     <div class="row">
         <div class="testimonial-list span12">
             <div class="tabbable tabs-below">
                 <div class="tab-content">
                     <div class="tab-pane active" id="A">
-                        <img src="assets/img/testimonials/1.jpg" title="" alt="">
-                        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur..."<br/><span
-                                    class="violet">Lorem Ipsum, dolor.co.uk</span></p>
+                        <img src="assets/img/testimonials/odul1.jpg" title="" alt="">
+                       <p>Kurucu ortağımız Av. Hüseyin GÜRBÜZ, Türkiye Barolar Birliği Başkanı Av. Prof. Dr. Metin FEYZİOĞLU’ndan Meslekte 40. Yıl ödülünü almıştır – Ekim 2015</p>
                     </div>
                     <div class="tab-pane" id="B">
-                        <img src="assets/img/testimonials/2.jpg" title="" alt="">
-                        <p>"Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-                            ut aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-                            ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat..."<br/><span
-                                    class="violet">Minim Veniam, nostrud.com</span></p>
+                        <img src="assets/img/testimonials/odul2.jpg" title="" alt="">
+                       <p>Kurucu ortağımız Av. Hüseyin GÜRBÜZ, İstanbul Barosu Başkanı Av. Muammer AYDIN’dan  Meslekte 35. Yıl ödülünü almıştır – Nisan 2009</p>
                     </div>
                     <div class="tab-pane" id="C">
-                        <img src="assets/img/testimonials/3.jpg" title="" alt="">
-                        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur..."<br/><span
-                                    class="violet">Lorem Ipsum, dolor.co.uk</span></p>
+                        <img src="assets/img/testimonials/odul3.jpg" title="" alt="">
+                       <p>Kurucu ortağımız Av. Hüseyin GÜRBÜZ, İstanbul Barosu Başkanı Av. Kazım KOLCUOĞLU’ndan Meslekte 30. Yıl ödülünü almıştır – 2004</p>
                     </div>
-                    <div class="tab-pane" id="D">
-                        <img src="assets/img/testimonials/1.jpg" title="" alt="">
-                        <p>"Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-                            ut aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-                            ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat..."<br/><span
-                                    class="violet">Minim Veniam, nostrud.com</span></p>
-                    </div>
+
                 </div>
                 <ul class="nav nav-tabs">
                     <li class="active"><a href="#A" data-toggle="tab"></a></li>
                     <li class=""><a href="#B" data-toggle="tab"></a></li>
                     <li class=""><a href="#C" data-toggle="tab"></a></li>
-                    <li class=""><a href="#D" data-toggle="tab"></a></li>
                 </ul>
             </div>
         </div>
     </div>
 </div>
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function(){
+        $("a[rel^='prettyPhoto']").prettyPhoto();
+    });
+</script>
 <?php include 'footer.php'; ?>
 

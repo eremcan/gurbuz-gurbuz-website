@@ -32,14 +32,18 @@
             <div class="contact-address span5">
                 <h4>Gürbüz & Gürbüz Hukuk Bürosu</h4>
                 <div class="" style="width: 100%">
-                    <div style="width: 100%"><iframe width="100%" height="400" src="https://maps.google.com/maps?width=100%&amp;height=400&amp;hl=en&amp;q=Cengiz%20Topel%20Cd.%20N%3A192%20Kucukkoy+(G%C3%BCrb%C3%BCz%20%26%20G%C3%BCrb%C3%BCz%20Hukuk%20B%C3%BCrosu)&amp;ie=UTF8&amp;t=&amp;z=17&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Embed Google Map</a></iframe></div><br />
+
+                    <iframe width="450" height="400" frameborder="0" style="border:0"
+                                                                   src="https://www.google.com/maps/embed/v1/place?q=Fevzi%20%C3%87akmak%20Mahallesi%2C%20Efe%20Mehmet%20Sokak%2C%20Gaziosmanpa%C5%9Fa%2FIstanbul%2C%20Turkey&key=AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE" allowfullscreen></iframe>
                 </div>
                 <br/>
 
                 <h4>Adres</h4>
                 <p>Cengiz Topel Cd. N:192 Başak İş Merkezi
                     Kat:2/46-47-50 <br> Küçükköy - İSTANBUL</p>
-                <p>Telefon: 0 (212) 538 0718</p>
+                <p>Telefon: +90 (212) 538 0718</p>
+                <p>Fax: +90 (212) 538 0718</p>
+
             </div>
 
         </div>

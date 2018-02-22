@@ -24,6 +24,9 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/lightbox.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -78,10 +81,10 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                                 <a href="ekibimiz.php"><i class="fa fa-user"></i><br />EKİBİMİZ</a>
                             </li>
                             <li class=" <?= ($activePage == 'faaliyet-alanlarimiz') ? 'current-page':'';  ?>">
-                                <a href="faaliyet-alanlarimiz.php"><i class="icon-tasks"></i><br />FAALİYET ALANLARIMIZ</a>
+                                <a href="calisma-alanlarimiz.php"><i class="icon-tasks"></i><br />ÇALIŞMA ALANLARIMIZ</a>
                             </li>
                             <li>
-                                <a href="etkinlikler.php"><i class="icon-camera"></i><br />ETKİNLİKLER</a>
+                                <a href="faaliyetlerimiz.php"><i class="icon-camera"></i><br />FAALİYETLERİMİZ</a>
                             </li>
 
                             <li class=" <?= ($activePage == 'faydali-linkler') ? 'current-page':'';  ?>" >
