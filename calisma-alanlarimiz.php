@@ -32,84 +32,84 @@
     <!-- Services -->
     <div class="what-we-do container">
         <div class="row">
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Ticaret Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Gayrimenkul Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Aile Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Kamulaştırma</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>İcra-İflas Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Ceza Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>İdare Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Dava Takibi</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Danışmanlık</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Uzlaşma</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Uluslararası Ticaret Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
@@ -117,98 +117,98 @@
 
             </div>
 
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Spor Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Uluslararası Fikri Mülkiyet Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Avrupa Birliği Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Uluslararası Hukuk</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Yabancı Yatırım</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Bankacılık Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Yeni Sözleşmeler</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Distribütörlük Sözleşmeleri</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Tek-Satıcılık Sözleşmeleri</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Franchise Sözleşmeleri</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Tahkim</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Uluslararası Mal Alım-Satımı Sözleşmeleri</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
                 <h4>Tüketici Hukuku</h4>
 
             </div>
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>
@@ -216,7 +216,7 @@
 
             </div>
 
-            <div class="serviceindex span3">
+            <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
                 </div>

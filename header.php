@@ -90,6 +90,9 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                             <li class=" <?= ($activePage == 'faydali-linkler') ? 'current-page':'';  ?>" >
                                 <a href="faydali-linkler.php"><i class="icon-link"></i><br />FAYDALI LİNKLER</a>
                             </li>
+                            <li class=" <?= ($activePage == 'hukuki-yazilar') ? 'current-page':'';  ?>" >
+                                <a href="hukuki-yazilar.php"><i class="fa fa-balance-scale"></i><br />HUKUKİ YAZILAR</a>
+                            </li>
 
                             <li  class=" <?= ($activePage == 'kariyer') ? 'current-page':'';  ?>">
                                 <a href="kariyer.php"><i class="icon-road"></i><br />KARİYER</a>

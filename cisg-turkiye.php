@@ -1,9 +1,9 @@
 <?php include "header.php"; ?>
 
 <div class="">
-    <img src="assets/img/law-useful-link.png" alt=" " class="img-width-full">
+    <img src="assets/img/index-category/cisg-turkiye-resim-top.jpg" alt=" " class="img-width-full">
 </div>
-<div class="container margin-bottom-3p">
+<div class="container margin-bottom-3p kategori-indextop">
     <div class="row">
         <div class="span12">
             <h3 style="color: #5d5d5d">CISG TÜRKİYE</h3>
@@ -11,6 +11,10 @@
                     Hakkında Birleşmiş Milletler Antlaşması) </strong>, dünyada çok geniş çapta kabul görmüş ve alıcısı
                 satıcısı farklı ülkelerde bulunan mal alım-satımı sözleşmelerine uygulanan uluslararası bir antlaşmadır.
                 Diplomatik konferansların Viyana’da yürütülmesi sebebiyle “Viyana Konvansiyonu” olarak da anılır.
+
+            <div class="">
+                <img src="assets/img/index-category/cisg-resim-2.png" alt=" " class="img-width-full">
+            </div>
 
             <p><strong>CISG</strong>, Türkiye’de 1 Ağustos 2011 tarihinden itibaren yürürlüktedir. Buna karşılık,
                 ülkemizde

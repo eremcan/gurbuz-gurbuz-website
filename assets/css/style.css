@@ -75,11 +75,10 @@ strong { font-weight: bold; }
 .header ul.nav {
     font-size: 14px;
     text-transform: uppercase;
-    margin-left: 52px;
 }
 
 .header ul.nav li a {
-    padding: 10px 20px 10px 20px;
+    padding: 10px 15px 10px 17px;
     color: #5d5d5d;
     text-shadow: none;
 }
@@ -101,7 +100,9 @@ strong { font-weight: bold; }
 }
 
 .header ul.nav li a:hover i { color: #fff; }
-
+.navbar a i {
+    color: #5d5d5d !important;
+}
 
 .img-responsive {
     max-width: 100%;
@@ -110,6 +111,7 @@ strong { font-weight: bold; }
 .img-width-full{
     width: 100% !important;
     margin: 4% auto;
+    height: 320px;
 }
 .team-aciklama{
     margin-top: 40px;
@@ -139,6 +141,7 @@ strong { font-weight: bold; }
     margin-bottom: 3%;
 }
 .faydali-linkler h4{
+    text-align: left;
     color: #5d5d5d;
 }
 .text-left{
@@ -160,6 +163,15 @@ strong { font-weight: bold; }
 }
 .faydali-linkler-link-size{
     font-size: 15px;
+}
+.kategori-indextop p{
+    text-align: left;
+}
+.hukuki-yazilar-row{
+    margin-top: 40px;
+}
+.hukuki-yazilar-row p a{
+font-size: 20px;
 }
 
 
@@ -200,7 +212,6 @@ strong { font-weight: bold; }
 .flex-caption {
     position: absolute;
     bottom: 20px;
-    max-width: 920px;
     padding: 10px 20px;
     margin: 0;
     background: #1d1d1d; /* browsers that don't support rgba */
@@ -210,6 +221,7 @@ strong { font-weight: bold; }
     color: #eaeaea;
     text-align: left;
     font-style: italic;
+    width: 100%;
 }
 
 
@@ -242,9 +254,13 @@ strong { font-weight: bold; }
     background: #f8f8f8;
     border-bottom: 2px solid #9d426b;
     margin-bottom: 20px;
+    height: 222px;
 
 }
 
+.heightunset{
+    height: unset !important;
+}
 .what-we-do .service:hover, .what-we-do .serviceindex:hover {
     box-shadow:
         0 5px 15px 0 rgba(0,0,0,.05),
@@ -437,6 +453,12 @@ strong { font-weight: bold; }
 .portfolio .work p {
     line-height: 24px;
     font-style: italic;
+    text-align: left;
+    margin-left: 3%;
+}
+.service p{
+    text-align: left;
+    margin-left: 3%;
 }
 
 
@@ -466,10 +488,13 @@ strong { font-weight: bold; }
 }
 
 .testimonial-list img {
-    float: left;
     margin: 10px 60px 0 60px;
     border: 3px solid #eaeaea;
     width: 25%;
+}
+.inactive-link{
+    pointer-events: none;
+    cursor: default;
 }
 
 .testimonial-list p {
@@ -593,8 +618,7 @@ footer .footer-border {
 }
 
 footer .copyright {
-    margin-top: 15px;
-    text-align: left;
+    margin-top: 5px;
 }
 
 footer .social {
