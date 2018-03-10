@@ -1,33 +1,26 @@
 <?php include 'header.php'; ?>
 <!-- Slider -->
 <div class="slider">
-    <div class="container">
-        <div class="row">
-            <div class="flexslider">
-                <ul class="slides">
-                    <li data-thumb="assets/img/slider/1.jpg">
-                        <img src="assets/img/slider/1.jpg">
-                        <p class="flex-caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                            amet, consectetur.</p>
-                    </li>
-                    <li data-thumb="assets/img/slider/2.jpg">
-                        <img src="assets/img/slider/2.jpg">
-                        <p class="flex-caption">Ut wisi enim ad minim veniam commodo consequat.</p>
-                    </li>
-                    <li data-thumb="assets/img/slider/5.jpg">
-                        <img src="assets/img/slider/5.jpg">
-                        <p class="flex-caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur.</p>
-                    </li>
-                    <li data-thumb="assets/img/slider/6.jpg">
-                        <img src="assets/img/slider/6.jpg">
-                        <p class="flex-caption">Ut wisi enim ad minim veniamnisl ut aliquip ex ea commodo consequat.</p>
-                    </li>
+    <div class="flexslider">
+        <ul class="slides">
 
-                </ul>
-            </div>
-        </div>
+            <li data-thumb="assets/img/slider/2.jpg">
+                <img src="assets/img/slider/2.jpg">
+                <p class="flex-caption">Ut wisi enim ad minim veniam commodo consequat.</p>
+            </li>
+            <li data-thumb="assets/img/slider/5.jpg">
+                <img src="assets/img/slider/5.jpg">
+                <p class="flex-caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur.</p>
+            </li>
+            <li data-thumb="assets/img/slider/6.jpg">
+                <img src="assets/img/slider/6.jpg">
+                <p class="flex-caption">Ut wisi enim ad minim veniamnisl ut aliquip ex ea commodo consequat.</p>
+            </li>
+
+        </ul>
     </div>
+
 </div>
 
 <!-- Site Description -->
@@ -44,7 +37,7 @@
                 <i class="fa fa-globe"></i>
             </div>
             <h4>CISG Türkiye</h4>
-            <p>Türkiye’nin de taraf olduğu 1980 tarihli “CISG” (Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında
+            <p class="index-service-buttonalign">Türkiye’nin de taraf olduğu 1980 tarihli “CISG” (Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında
                 Birleşmiş Milletler Antlaşması)...</p>
             <a href="cisg-turkiye.php">Fazlası...</a>
         </div>
@@ -53,7 +46,7 @@
                 <i class="fa fa-trophy"></i>
             </div>
             <h4>SPOR HUKUKU</h4>
-            <p>Amerika’da 80’li, Avrupa’da ise 90’lı yıllarda gelişimini tamamlayan ve halen dünyada yükselen hukuk dalı
+            <p class="index-service-buttonalign">Amerika’da 80’li, Avrupa’da ise 90’lı yıllarda gelişimini tamamlayan ve halen dünyada yükselen hukuk dalı
                 olan Spor Hukuku’na dair...</p>
             <a href="spor-hukuku.php">Fazlası...</a>
         </div>
@@ -62,7 +55,7 @@
                 <i class="fa fa-gavel"></i>
             </div>
             <h4>TAHKİM</h4>
-            <p>Alternatif uyuşmazlık çözüm yollarından en bilindiği olan tahkim kendine has yargılama kuralları ve
+            <p class="index-service-buttonalign">Alternatif uyuşmazlık çözüm yollarından en bilindiği olan tahkim kendine has yargılama kuralları ve
                 Mahkemelere göre daha pratik...</p>
             <a href="tahkim.php">Fazlası...</a>
         </div>
@@ -71,7 +64,7 @@
                 <i class="fa fa-pencil-alt"></i>
             </div>
             <h4>YENİ SÖZLEŞMELER</h4>
-            <p>Genelde kanun ile düzenlenmeyen sözleşmeler olarak bilinen Yeni Sözleşmeler kökenini yüksek
+            <p class="index-service-buttonalign">Genelde kanun ile düzenlenmeyen sözleşmeler olarak bilinen Yeni Sözleşmeler kökenini yüksek
                 mertebede...</p>
             <a href="yeni-sozlesmeler.php">Fazlası...</a>
         </div>

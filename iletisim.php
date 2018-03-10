@@ -16,7 +16,7 @@
     <div class="contact-us container">
         <div class="row">
             <div class="contact-form span7">
-                <p>Gürbüz & Gürbüz Hukuk Bürosu ile iletişime geçmek için lütfen aşağıdaki formu doldurunuz.</p>
+                <p>GÜRBÜZ & GÜRBÜZ Hukuk Bürosu ile iletişime geçmek için lütfen aşağıdaki formu doldurunuz.</p>
                 <form method="post" action="assets/sendmail.php">
                     <label for="name" class="nameLabel">İsim</label>
                     <input id="name" type="text" name="name" placeholder="İsminiz...">
@@ -30,7 +30,7 @@
                 </form>
             </div>
             <div class="contact-address span5">
-                <h4>Gürbüz & Gürbüz Hukuk Bürosu</h4>
+                <h4>GÜRBÜZ & GÜRBÜZ Hukuk Bürosu</h4>
                 <div class="" style="width: 100%">
 
                     <iframe width="450" height="400" frameborder="0" style="border:0"

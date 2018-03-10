@@ -8,7 +8,7 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
 <head>
 
     <meta charset="utf-8">
-    <title>Gürbüz & Gürbüz Hukuk Bürosu</title>
+    <title>GÜRBÜZ & GÜRBÜZ Hukuk Bürosu</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -26,6 +26,10 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/lightbox.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
+
 
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

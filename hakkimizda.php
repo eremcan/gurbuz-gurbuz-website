@@ -7,7 +7,7 @@
                 <div class="span12">
                     <i class="icon-user page-title-icon"></i>
                     <h2>Hakkımızda/</h2>
-                    <p>Gürbüz & Gürbüz Hukuk Bürosuna ait genel bilgiler</p>
+                    <p>GÜRBÜZ & GÜRBÜZ Hukuk Bürosuna ait genel bilgiler</p>
                 </div>
             </div>
         </div>
@@ -46,14 +46,14 @@
     <!-- Testimonials -->
     <div class="testimonials container wow fadeInDown">
         <div class="testimonials-title">
-            <h3 style="width: 230px">HUKUK TECRÜBESİ</h3>
+            <h3 style="width: 273px">HUKUK TECRÜBESİ</h3>
         </div>
         <div class="row">
             <div class="testimonial-list span12">
                 <div class="tabbable tabs-below">
                     <div class="tab-content">
                         <div class="tab-pane active" id="A">
-                            <img src="assets/img/testimonials/img-hukuk-tecrube.jpg" title="" alt="" style="float: left">
+                            <img src="assets/img/testimonials/img-hukuk-tecrube.jpg" title="" alt="" style="float: left; width: 25% !important;">
                             <p>Hukuki iş ve işlemlerinizi yürütürken 45 yılı aşmış tecrübeli bir büro ile çalışmak sizleri her zaman daha da güvende hissetirecektir. </p>
                         </div>
 

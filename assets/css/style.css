@@ -8,17 +8,18 @@
  *
  */
 html{
-    zoom: 90%;
-    -moz-transform: scale(1);
+
 
 }
 
 body {
     background: #fff;
     text-align: center;
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    color: #888;
+    font-family: 'Montserrat',  sans-serif;
+    color: #2c2c30;
     font-size: 12px;
+    overflow-x: hidden !important;
+    font-weight: 500;
 }
 
 .violet { color: #9d426b; }
@@ -66,7 +67,7 @@ strong { font-weight: bold; }
     width: 30%;
     height: 63px;
     padding: 30px 0;
-    background: url(../img/logo.png) center center no-repeat;
+    background: url(../img/logogurbuz.jpg) center center no-repeat;
     margin-left: 35%;
     background-size: contain;
 }
@@ -78,9 +79,10 @@ strong { font-weight: bold; }
 }
 
 .header ul.nav li a {
-    padding: 10px 15px 10px 17px;
+    padding:10px 10px 10px 12px;
     color: #5d5d5d;
     text-shadow: none;
+    font-weight: 600;
 }
 
 .header ul.nav li.current-page a {
@@ -232,7 +234,6 @@ font-size: 20px;
 }
 
 .presentation h2 {
-    font-family: 'Lobster', cursive;
     font-size: 30px;
     color: #5d5d5d;
 }
@@ -359,10 +360,9 @@ font-size: 20px;
 }
 
 .portfolio-title h3 {
-    width: 220px;
+    width: 273px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
     font-size: 24px;
     color: #5d5d5d;
 }
@@ -372,10 +372,14 @@ font-size: 20px;
     padding-bottom: 20px;
     background: #f8f8f8;
     border-bottom: 2px solid #9d426b;
-    min-height: 461px;
+    min-height: 509px;
 }
 .portfolio .heightdisable{
     min-height: unset;
+}
+.portfolio-img a img{
+    height: 130px !important;
+    width: 100% !important;
 }
 
 .portfolio .work:hover img {
@@ -453,12 +457,17 @@ font-size: 20px;
 .portfolio .work p {
     line-height: 24px;
     font-style: italic;
-    text-align: left;
+    text-align: justify;
     margin-left: 3%;
+    margin-right: 3%;
 }
 .service p{
-    text-align: left;
+    text-align: justify;
     margin-left: 3%;
+    margin-right: 3%;
+}
+.index-service-buttonalign{
+    margin-bottom: 17px;
 }
 
 
@@ -477,7 +486,6 @@ font-size: 20px;
     width: 180px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
     font-size: 24px;
     color: #5d5d5d;
 }
@@ -490,7 +498,7 @@ font-size: 20px;
 .testimonial-list img {
     margin: 10px 60px 0 60px;
     border: 3px solid #eaeaea;
-    width: 25%;
+    width: 10%;
 }
 .inactive-link{
     pointer-events: none;
@@ -542,7 +550,7 @@ footer {
 
 footer .widget {
     margin-top: 20px;
-    text-align: left;
+    text-align: justify;
 }
 
 footer .widget h4 {
@@ -669,7 +677,6 @@ footer .social a:hover { background-position: left top; }
 .page-title h2 {
     display: inline;
     margin-left: 10px;
-    font-family: 'Lobster', cursive;
     font-size: 24px;
     color: #5d5d5d;
     text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
@@ -702,7 +709,7 @@ footer .social a:hover { background-position: left top; }
 
 .about-us-text {
     padding: 10px 0;
-    text-align: left;
+    text-align: justify;
 }
 
 .about-us-text h4 {
@@ -711,6 +718,7 @@ footer .social a:hover { background-position: left top; }
     font-size: 16px;
     color: #5d5d5d;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    text-align: center;
 }
 
 .about-us-text p {
@@ -733,7 +741,6 @@ footer .social a:hover { background-position: left top; }
     width: 220px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', cursive;
     font-size: 24px;
     color: #5d5d5d;
 }
@@ -855,7 +862,7 @@ footer .social a:hover { background-position: left top; }
     -webkit-box-shadow: none;
     box-shadow: none;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    color: #888;
+    color: #000;
     font-size: 13px;
     font-style: italic;
 }
@@ -877,6 +884,7 @@ footer .social a:hover { background-position: left top; }
     margin-top: 15px;
     background: #9d426b;
     border: 0;
+    border-radius: 8px;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 13px;
     color: #fff;
@@ -916,6 +924,7 @@ footer .social a:hover { background-position: left top; }
 .contact-us form label {
     margin-top: 10px;
     font-size: 13px;
+    font-weight: unset !important;
 }
 
 .contact-us form input:-moz-placeholder, .contact-us form textarea:-moz-placeholder { color: #ccc; }
@@ -941,13 +950,12 @@ footer .social a:hover { background-position: left top; }
 
 .services-full-width-text {
     padding: 10px 0 0 0;
-    text-align: left;
+    text-align: justify;
 }
 
 .services-full-width-text h4 {
     margin-top: 25px;
     padding: 0 20px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
     font-size: 16px;
     color: #5d5d5d;
     text-transform: uppercase;
@@ -968,7 +976,7 @@ footer .social a:hover { background-position: left top; }
 
 .services-half-width-text {
     padding: 10px 0;
-    text-align: left;
+    text-align: justify;
 }
 
 .services-half-width-text h4 {

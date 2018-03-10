@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
 
 <div class="">
-    <img src="assets/img/law-useful-link.png" alt=" " class="img-width-full">
+    <img src="assets/img/iphonedeneme.jpg" alt=" " class="img-width-full">
 </div>
 <div class="container margin-bottom-3p kategori-indextop">
     <div class="row">

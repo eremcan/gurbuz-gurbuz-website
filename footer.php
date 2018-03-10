@@ -9,20 +9,26 @@
                     olup 2003 yılında Av. Aytekin GÜRBÜZ’ün katılımıyla <span class="violet"> GÜRBÜZ & GÜRBÜZ Hukuk Bürosu </span>
                     ismini almıştır.
                     Kurulduğu günden bu yana,  sağlam ve çözüm odaklı hukuk hizmetlerini sunan büromuz çok uluslu ve yerel  şirketler başta olmak üzere, yine yabancı ve
-                    yerel birçok gerçek şahıs Müvekkiline güvenilir ve memnuniyet verici hizmetler sağlamaya ...
+                    yerel birçok gerçek şahıs Müvekkiline güvenilir ve memnuniyet verici hizmetler sağlamaya devam etmektedir ...
                 <p><a href="hakkimizda.php">devamı...</a></p>
             </div>
             <div class="widget span3">
                 <h4>YASAL UYARI</h4>
-                <p style="line-height: 22px;font-size: 11px;"> İşbu İnternet Sitesi içeriğinde yer alan tüm eserler
+                <p> İşbu İnternet Sitesi içeriğinde yer alan tüm eserler
                     (yazı, makale, resim, görüntü, fotoğraf, vb.) GÜRBÜZ & GÜRBÜZ Hukuk Bürosu’na ait olup ilgili ulusal
                     ve uluslararası tüm yasal mevzuatlar ile korunmaktadır. Bu hakları ihlal eden kişiler ilgili yasal
                     düzenleme çerçevesinde hukuki ve cezai müeyyidelerle karşılaşabilir. Eserlere atıf yapılmak şartı
                     ile kısmi kullanım mümkündür ancak eserlerin tamamen kullanımı ve yayımı izne tabi olduğundan izin
                     için lütfen info@gurbuz-gurbuz.av.tr e-postası ile başvuru yapınız. </p></div>
-            <div class="widget span3">
-                <h4>HUKUKİ YAZILAR</h4>
-                <ul class="flickr-feed"></ul>
+            <div class="widget span3 contact-us form button">
+                <h4 style="font-family: inherit; text-align: justify">İLETİŞİM</h4>
+                <form style="margin-top: 17px" method="post" action="assets/sendmail.php">
+                    <input id="name" type="text" name="name" placeholder="İsminiz...">
+                    <input id="email" type="text" name="email" placeholder="Emailiniz...">
+                    <input id="subject" type="text" name="subject" placeholder="Konu...">
+                    <textarea style="height: 80px" id="message" name="message" placeholder="Mesajınız..."></textarea>
+                    <button type="submit">Gönder</button>
+                </form>
             </div>
             <div class="widget span3">
                 <h4>BİZE ULAŞIN</h4>
@@ -30,7 +36,7 @@
                     Kat:2/46-47-50 Küçükköy-İST</p>
                 <p><i class="icon-phone"></i> Telefon: +90 (212) 538 0718</p>
                 <p><i class="fa fa-fax"></i> Fax: +90 (212) 538 0987</p>
-                <p><i class="icon-user"></i> Gürbüz & Gürbüz Hukuk Bürosu</p>
+                <p><i class="icon-user"></i> GÜRBÜZ & GÜRBÜZ Hukuk Bürosu</p>
                 <p><i class="icon-envelope-alt"></i> Email: <a href="">info@gurbuz-gurbuz.av.tr</a></p>
             </div>
         </div>

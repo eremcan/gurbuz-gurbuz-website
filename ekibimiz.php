@@ -44,7 +44,7 @@
                 of Law’da L.LM (Masters of Law) in Comparative Law “Karşılaştırmalı Hukuk” programında yüksek lisans yapmıştır. Yüksek Lisans eğitimi esnasında,
                 ilki <strong><em>“Birleşmiş Milletler’in 1980 tarihli Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Antlaşması (C.I.S.G/CISG)” </em></strong> kapsamında, diğeri de
                         <strong><em>“Spor Hukuku”</em></strong> alanında olmak üzere iki tane tez yazmış olan yönetici ortağımız, aynı üniversitede uluslararası alım-satım sözleşmeleri ve Avrupa Birliği
-                Hukuku üzerine özel akademik çalışmalarda bulunmuştur. Başta uluslararası mal alım-satımı sözleşmeleri olmak üzere, çok uluslu ve yerel şirketlere
+                Hukuku üzerine özel akademik çalışmalarda bulunmuştur. Kendisi UNCITRAL dava özetleri hazırlamış olup bu özetler UNCITRAL'in resmi internet sitesinde yayımlanmıştır. Başta uluslararası mal alım-satımı sözleşmeleri olmak üzere, çok uluslu ve yerel şirketlere
                 danışmanlık yapan ortağımız Spor Hukuku alanında da özel çalışmalar yürütmektedir. Sporun en yüksek yargı mercii olan CAS kararları çevirileri yapan
                 ortağımız, Spor Hukuku alanında birçok konferans, seminer, panel ve organizasyonda konuşmacı olarak faaliyet göstermektedir.
             </p>

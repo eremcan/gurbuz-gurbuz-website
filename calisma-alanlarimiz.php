@@ -6,8 +6,8 @@
             <div class="row">
                 <div class="span12">
                     <i class="icon-tasks page-title-icon"></i>
-                    <h2>Faaliyet Alanlarımız /</h2>
-                    <p>Aktif olarak çalıştığımız alan...</p>
+                    <h2>Çalışma Alanlarımız /</h2>
+                    <p>Lütfen çalışma alanlarımızı inceleyiniz...</p>
                 </div>
             </div>
         </div>
@@ -17,14 +17,12 @@
     <div class="services-full-width container">
         <div class="row">
             <div class="services-full-width-text span12">
-                <h4>Lorem Ipsum Dolor Sit Amet</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                    et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class="violet">suscipit lobortis</span>
-                    nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur
-                    adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis
-                    nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem
-                    ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong>
-                    incididunt.</p>
+                <h4>GENİŞ ÇAPLI ÇALIŞMA ALANLARINA SAHİBİZ</h4>
+                <p>Kurulduğu günden beri uzmanlık alanlarını genişleten <strong>GÜRBÜZ & GÜRBÜZ Hukuk bürosu</strong>,
+                    halihazırda çok
+                    geniş yelpazeye sahip hukuk hizmetleri vermektedir. Hukukun her alanında hizmet veren hukuk
+                    büromuzun çalışma alanlarının bazıları aşağıda sıralanmış olup lütfen inceleyiniz.
+                </p>
             </div>
         </div>
     </div>
@@ -194,13 +192,7 @@
                 <h4>Tahkim</h4>
 
             </div>
-            <div class="serviceindex span3 heightunset">
-                <div class="icon-awesome">
-                    <i class=""></i>
-                </div>
-                <h4>Uluslararası Mal Alım-Satımı Sözleşmeleri</h4>
 
-            </div>
             <div class="serviceindex span3 heightunset">
                 <div class="icon-awesome">
                     <i class=""></i>
@@ -221,6 +213,20 @@
                     <i class=""></i>
                 </div>
                 <h4>Sözleşmeler</h4>
+
+            </div>
+            <div class="serviceindex span3 heightunset">
+                <div class="icon-awesome">
+                    <i class=""></i>
+                </div>
+                <h4 style="font-size: 12px">Uluslararası Mal Alım-Satımı Sözleşmeleri</h4>
+
+            </div>
+            <div class="serviceindex span3 heightunset">
+                <div class="icon-awesome">
+                    <i class=""></i>
+                </div>
+                <h4>İş Hukuku</h4>
 
             </div>
 
@@ -258,12 +264,11 @@
         <div class="row">
             <div class="call-to-action-text span12">
                 <div class="ca-text">
-                    <p>Vurgulu Yazı <span class="violet">Gürbüz & Gürbüz</span>, consectetur adipisicing elit, sed do
-                        eiusmod tempor incididunt ut labore et ut wisi enim.</p>
+                    <p>Hukuki iş ve işlemlerinizi yürütürken 45 yılı aşkın tecrübeye sahip bir büro ile çalışmak sizleri
+                        her daim daha da güvende hissetirecektir: <span class="violet">GÜRBÜZ & GÜRBÜZ </span>Hukuk Bürosu
+                    </p>
                 </div>
-                <div class="ca-button">
-                    <a href="">Bize ulaşın</a>
-                </div>
+
             </div>
         </div>
     </div>
