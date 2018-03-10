@@ -143,14 +143,21 @@ strong { font-weight: bold; }
     margin-bottom: 3%;
 }
 .faydali-linkler h4{
-    text-align: left;
-    color: #5d5d5d;
+    text-align: justify;
+    color: #2c2c30;
+}
+.faydali-linkler-linkeach{
+    text-align: justify;
+
 }
 .text-left{
     text-align: left;
 }
 .text-right{
     text-align: right;
+}
+.text-center{
+    text-align: center !important;
 }
 .work.span3 img {
     height: 137px;
@@ -160,14 +167,13 @@ strong { font-weight: bold; }
     font-size: 10px;
 }
 .faydali-linkler-baslik{
-    font-size: 20px;
     line-height: 10px;
 }
 .faydali-linkler-link-size{
-    font-size: 15px;
+    font-size: 17.5px;
 }
 .kategori-indextop p{
-    text-align: left;
+    text-align: justify;
 }
 .hukuki-yazilar-row{
     margin-top: 40px;
@@ -410,7 +416,7 @@ font-size: 20px;
 .portfolio .work .icon-awesome a {
     display: inline-block;
     padding: 5px 9px;
-    background: #9d426b; 
+    background: #9d426b;
     color: #fff;
     -moz-border-radius: 19px;
     -webkit-border-radius: 19px;
@@ -506,10 +512,14 @@ font-size: 20px;
 }
 
 .testimonial-list p {
-    padding: 3% 60px 0 150px;
+    padding: 10% 60px 0 150px;
     font-size: 14px;
     line-height: 30px;
     font-style: italic;
+}
+.testimonial-list-index p {
+    padding: 3% 60px 0 150px !important;
+
 }
 
 .testimonial-list .nav-tabs {
@@ -581,7 +591,7 @@ footer .widget i {
     overflow-y: hidden;
     list-style: none;
 }
-	
+
 .tweet_list li {
     height: 100%;
     overflow-y: auto;
@@ -589,11 +599,11 @@ footer .widget i {
     list-style-type: none;
     line-height: 24px;
 }
-		
+
 .tweet_list .tweet_avatar {
     float: left;
 }
-		
+
 .tweet_list .tweet_avatar img {
     vertical-align: middle;
 }
@@ -660,6 +670,7 @@ footer .social a:hover { background-position: left top; }
 
 .page-title {
     margin: 0 auto;
+    margin-top: 4%;
     padding: 30px 0 35px 0;
     background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
     -moz-box-shadow:
@@ -835,7 +846,6 @@ footer .social a:hover { background-position: left top; }
     padding: 0 20px;
     line-height: 28px;
     font-size: 13px;
-    text-align: center;
 }
 
 .contact-form {

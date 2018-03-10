@@ -6,16 +6,16 @@
 
             <li data-thumb="assets/img/slider/2.jpg">
                 <img src="assets/img/slider/2.jpg">
-                <p class="flex-caption">Ut wisi enim ad minim veniam commodo consequat.</p>
+                <p class="flex-caption">GÜRBÜZ & GÜRBÜZ Hukuk Bürosu
+                    İstanbul'da kurulu bir Türk Hukuk Bürosudur.</p>
             </li>
             <li data-thumb="assets/img/slider/5.jpg">
                 <img src="assets/img/slider/5.jpg">
-                <p class="flex-caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur.</p>
+                <p class="flex-caption">SİZ ZAMANINIZIN KEYFİNİ ÇIKARIRKEN BİZ HUKUKİ UYUŞMAZLIKLARINIZI ÇÖZELİM.</p>
             </li>
             <li data-thumb="assets/img/slider/6.jpg">
                 <img src="assets/img/slider/6.jpg">
-                <p class="flex-caption">Ut wisi enim ad minim veniamnisl ut aliquip ex ea commodo consequat.</p>
+                <p class="flex-caption">ANAHTAR KELİMELER: TECRÜBE, GENİŞ PERSPEKTİF</p>
             </li>
 
         </ul>
@@ -145,7 +145,7 @@
         <h3>Ödüllerimiz</h3>
     </div>
     <div class="row">
-        <div class="testimonial-list span12">
+        <div class="testimonial-list testimonial-list-index span12">
             <div class="tabbable tabs-below">
                 <div class="tab-content">
                     <div class="tab-pane active" id="A">

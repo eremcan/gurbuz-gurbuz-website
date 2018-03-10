@@ -21,7 +21,7 @@
                     ile kısmi kullanım mümkündür ancak eserlerin tamamen kullanımı ve yayımı izne tabi olduğundan izin
                     için lütfen info@gurbuz-gurbuz.av.tr e-postası ile başvuru yapınız. </p></div>
             <div class="widget span3 contact-us form button">
-                <h4 style="font-family: inherit; text-align: justify">İLETİŞİM</h4>
+                <h4 style="font-family: inherit; text-align: justify">İLETİŞİM FORMU</h4>
                 <form style="margin-top: 17px" method="post" action="assets/sendmail.php">
                     <input id="name" type="text" name="name" placeholder="İsminiz...">
                     <input id="email" type="text" name="email" placeholder="Emailiniz...">

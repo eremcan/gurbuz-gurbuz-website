@@ -34,7 +34,7 @@
                 <div class="" style="width: 100%">
 
                     <iframe width="450" height="400" frameborder="0" style="border:0"
-                                                                   src="https://www.google.com/maps/embed/v1/place?q=Fevzi%20%C3%87akmak%20Mahallesi%2C%20Efe%20Mehmet%20Sokak%2C%20Gaziosmanpa%C5%9Fa%2FIstanbul%2C%20Turkey&key=AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE" allowfullscreen></iframe>
+                                                                   src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJb9o28V6wyhQRTYvhcK8vW5g&key=AIzaSyCfrtRYhpqEMQ5n9sNnNXZS2mna_vIqfDE" allowfullscreen></iframe>
                 </div>
                 <br/>
 

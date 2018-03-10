@@ -81,7 +81,7 @@
                 <ul class="portfolio-img">
                     <li data-id="p-1" data-type="web-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim1.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim1.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim1.jpg" alt="">
                             </a>
                             <h4>CISG katılımımız...</h4>
@@ -90,7 +90,7 @@
                     </li>
                     <li data-id="p-2" data-type="logo-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim2.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim2.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim2.jpg" alt="">
                             </a>
                             <h4>Ipsum Logo</h4>
@@ -99,7 +99,7 @@
                     </li>
                     <li data-id="p-3" data-type="print-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim3.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim3.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim3.jpg" alt="">
                             </a>
                             <h4>Dolor Prints</h4>
@@ -108,7 +108,7 @@
                     </li>
                     <li data-id="p-4" data-type="web-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim4.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim4.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim4.jpg" alt="">
                             </a>
                             <h4>Sit Amet Website</h4>
@@ -122,8 +122,8 @@
                 <ul class="portfolio-img">
                     <li data-id="p-1" data-type="web-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim5.jpg" rel="prettyPhoto" data-lightbox="example-1" >
-                                <img src="assets/img/portfolio/resim5.jpg" alt="image-1">
+                            <a href="assets/img/portfolio/resim6.jpg" rel="prettyPhoto" data-lightbox="example-1" >
+                                <img src="assets/img/portfolio/resim6.jpg" alt="image-1">
                             </a>
                             <h4>Lorem Website</h4>
 
@@ -131,8 +131,8 @@
                     </li>
                     <li data-id="p-2" data-type="logo-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim6.jpg" rel="prettyPhoto" data-lightbox="example-2">
-                                <img src="assets/img/portfolio/resim6.jpg" alt="image-1">
+                            <a href="assets/img/portfolio/resim5.jpg" rel="prettyPhoto" data-lightbox="example-1">
+                                <img src="assets/img/portfolio/resim5.jpg" alt="image-1">
                             </a>
                             <h4>Ipsum Logo</h4>
 
@@ -140,7 +140,7 @@
                     </li>
                     <li data-id="p-3" data-type="print-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim7.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim7.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim7.jpg" alt="">
                             </a>
                             <h4>Dolor Prints</h4>
@@ -149,7 +149,7 @@
                     </li>
                     <li data-id="p-4" data-type="web-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim8.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim8.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim8.jpg" alt="">
                             </a>
                             <h4>Sit Amet Website</h4>
@@ -171,7 +171,7 @@
                     </li>
                     <li data-id="p-2" data-type="logo-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim10.jpg" rel="prettyPhoto" data-lightbox="example-2">
+                            <a href="assets/img/portfolio/resim10.jpg" rel="prettyPhoto" data-lightbox="example-1">
                                 <img src="assets/img/portfolio/resim10.jpg" alt="image-1">
                             </a>
                             <h4>Ipsum Logo</h4>
@@ -180,7 +180,7 @@
                     </li>
                     <li data-id="p-3" data-type="print-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim11.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim11.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim11.jpg" alt="">
                             </a>
                             <h4>Dolor Prints</h4>
@@ -189,7 +189,7 @@
                     </li>
                     <li data-id="p-4" data-type="web-design" class="span3">
                         <div class="work heightdisable">
-                            <a href="assets/img/portfolio/resim12.jpg" rel="prettyPhoto">
+                            <a href="assets/img/portfolio/resim12.jpg" rel="prettyPhoto" data-lightbox = "example-1">
                                 <img src="assets/img/portfolio/resim12.jpg" alt="">
                             </a>
                             <h4>Sit Amet Website</h4>
@@ -198,5 +198,69 @@
                     </li>
                 </ul>
             </div>
+            <div class="row">
+                <ul class="portfolio-img">
+                    <li data-id="p-1" data-type="web-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim13.jpg" rel="prettyPhoto" data-lightbox="example-1" >
+                                <img src="assets/img/portfolio/resim13.jpg" alt="image-1">
+                            </a>
+                            <h4>Lorem Website</h4>
+
+                        </div>
+                    </li>
+                    <li data-id="p-2" data-type="logo-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim16.jpg" rel="prettyPhoto" data-lightbox="example-1">
+                                <img src="assets/img/portfolio/resim16.jpg" alt="image-1">
+                            </a>
+                            <h4>Ipsum Logo</h4>
+
+                        </div>
+                    </li>
+                    <li data-id="p-3" data-type="print-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim18.jpg" rel="prettyPhoto" data-lightbox="example-1">
+                                <img src="assets/img/portfolio/resim18.jpg" alt="">
+                            </a>
+                            <h4>Dolor Prints</h4>
+
+                        </div>
+                    </li>
+                    <li data-id="p-4" data-type="web-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim19.jpg" rel="prettyPhoto" data-lightbox="example-1">
+                                <img src="assets/img/portfolio/resim19.jpg" alt="">
+                            </a>
+                            <h4>Sit Amet Website</h4>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="row">
+                <ul class="portfolio-img">
+                    <li data-id="p-1" data-type="web-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim20.jpg" rel="prettyPhoto" data-lightbox="example-1" >
+                                <img src="assets/img/portfolio/resim20.jpg" alt="image-1">
+                            </a>
+                            <h4>Lorem Website</h4>
+
+                        </div>
+                    </li>
+                    <li data-id="p-2" data-type="logo-design" class="span3">
+                        <div class="work heightdisable">
+                            <a href="assets/img/portfolio/resim14.jpg" rel="prettyPhoto" data-lightbox="example-1">
+                                <img src="assets/img/portfolio/resim14.jpg" alt="image-1">
+                            </a>
+                            <h4>Ipsum Logo</h4>
+
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+
         </div>
 <?php include "footer.php"; ?>
