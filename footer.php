@@ -32,7 +32,7 @@
             </div>
             <div class="widget span3">
                 <h4>BİZE ULAŞIN</h4>
-                <p><i class="icon-map-marker"></i> Adres: Cengiz Topel Cd. N:192 Başak İş Merkezi
+                <p style="padding-top:7px ;"><i class="icon-map-marker"></i> Adres: Cengiz Topel Cd. N:192 Başak İş Merkezi
                     Kat:2/46-47-50 Küçükköy-İST</p>
                 <p><i class="icon-phone"></i> Telefon: +90 (212) 538 0718</p>
                 <p><i class="fa fa-fax"></i> Fax: +90 (212) 538 0987</p>

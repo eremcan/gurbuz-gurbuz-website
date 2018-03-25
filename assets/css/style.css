@@ -67,7 +67,7 @@ strong { font-weight: bold; }
     width: 30%;
     height: 63px;
     padding: 30px 0;
-    background: url(../img/logogurbuz.jpg) center center no-repeat;
+    background: url(../img/logogurbuzyeni1.png) center center no-repeat;
     margin-left: 35%;
     background-size: contain;
 }
@@ -115,6 +115,12 @@ strong { font-weight: bold; }
     margin: 4% auto;
     height: 320px;
 }
+.img-width-full-cisg{
+    width: 95% !important;
+    margin: 4% auto;
+    height: 220px;
+}
+
 .team-aciklama{
     margin-top: 40px;
 }
@@ -150,6 +156,13 @@ strong { font-weight: bold; }
     text-align: justify;
 
 }
+.faydali-linkler-container{
+    height: 160px;
+}
+.faydali-linkler-container-bottom{
+    height: 62px !important;
+}
+
 .text-left{
     text-align: left;
 }
@@ -170,7 +183,7 @@ strong { font-weight: bold; }
     line-height: 10px;
 }
 .faydali-linkler-link-size{
-    font-size: 17.5px;
+    font-size: 1.2em;
 }
 .kategori-indextop p{
     text-align: justify;
@@ -551,7 +564,6 @@ font-size: 20px;
 
 footer {
     margin: 0 auto;
-    padding-bottom: 10px;
     background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
     -moz-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
     -webkit-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
@@ -631,7 +643,6 @@ footer .widget i {
 
 
 footer .footer-border {
-    margin-top: 30px;
     border-top: 1px dashed #ddd;
 }
 
@@ -827,7 +838,6 @@ footer .social a:hover { background-position: left top; }
 
 .contact-us {
     margin-top: 20px;
-    padding-bottom: 50px;
     text-align: left;
 }
 
@@ -1088,11 +1098,9 @@ footer .social a:hover { background-position: left top; }
 .portfolio-page h4.filter-portfolio {
     margin-top: 35px;
     padding: 0 20px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     color: #5d5d5d;
     text-align: left;
-    text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
 }
 
@@ -1184,7 +1192,7 @@ ul.portfolio-img li {
         width: 80%;
         height: 58px;
         padding: 30px 0;
-        background: url(../img/logo.png) 20px center no-repeat;
+        background: url(../img/logogurbuzyeni1.png) 20px center no-repeat;
         background-size: 44%;
         margin-left: 7%;
 
@@ -1292,7 +1300,7 @@ ul.portfolio-img li {
             width: 81%;
             height: 58px;
             padding: 30px 0;
-            background: url(../img/logo.png) 0px center no-repeat;
+            background: url(../img/logogurbuzyeni1.png) 0px center no-repeat;
             background-size: 80%;
             margin-left: 0px;
 
@@ -1303,3 +1311,54 @@ ul.portfolio-img li {
         }
 
     }
+@media screen and (min-width: 1400px) {
+    .container {
+        width: 1370px;
+    }
+}
+@media screen and (min-width: 1600px) {
+    .container {
+        width: 1570px;
+    }
+}
+@media screen and (min-width: 1900px) {
+    body{
+        font-size: 13px;
+    }
+    .container {
+        width: 1870px;
+
+    }
+    .header ul.nav{
+        margin-top: 2%;
+        font-size: 1.3em;
+    }
+    .span12{
+        width: 1870px;
+        margin-left: 30px;
+    }
+    .nav-collapse.collapse{
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .header a.brand{
+        width: 100%;
+        margin-left: 0;
+    }
+    .span3{
+        width: 410px;
+        margin-left: 45px;
+    }
+    .span8{
+        width: 1200px;
+    }
+    .span6{
+        width: 890px;
+    }
+    .span7{
+        width: 1000px;
+    }
+    .span5{
+        width: 740px;
+    }
+}
