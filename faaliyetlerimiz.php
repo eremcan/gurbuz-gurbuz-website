@@ -73,7 +73,7 @@
             <div class="row">
                 <div class="portfolio-navigator span12">
                     <h4 class="filter-portfolio">
-                        <a class="all" id="active-imgs" href="#"></a> Faaliyetlerimizden Resimler...
+                        <a class="all" id="active-imgs" href="#"></a> FAALİYETLERİMİZDEN RESİMLER...
                     </h4>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
 
 <div class="">
-    <img src="assets/img/index-category/cisg-turkiye-resim-top.jpg" alt=" " class="img-width-full">
+    <img src="assets/img/index-category/cisgturkey.png" alt=" " class="img-width-full">
 </div>
 <div class="container margin-bottom-3p kategori-indextop">
     <div class="row">
@@ -12,11 +12,11 @@
                 satıcısı farklı ülkelerde bulunan mal alım-satımı sözleşmelerine uygulanan uluslararası bir antlaşmadır.
                 Diplomatik konferansların Viyana’da yürütülmesi sebebiyle “Viyana Konvansiyonu” olarak da anılır.
 
-            <div class="">
-                <img src="assets/img/index-category/cisg-resim-2.png" alt=" " class="img-width-full">
+            <div class="span6">
+                <img src="assets/img/index-category/cisg-resim-2.png" alt=" " class="img-width-full-cisg" style="padding-bottom: 4%">
             </div>
 
-            <p><strong>CISG</strong>, Türkiye’de 1 Ağustos 2011 tarihinden itibaren yürürlüktedir. Buna karşılık,
+            <p style="margin-top: 4%;"><strong>CISG</strong>, Türkiye’de 1 Ağustos 2011 tarihinden itibaren yürürlüktedir. Buna karşılık,
                 ülkemizde
                 başta Türk şirketleri olmak üzere pek bilinmemektedir. Bu vesile ile, uluslararası mal alım-satımı
                 sözleşmeleri oluşturulurken muazzam hatalar yapılmakta ve bu hatalar sözleşmenin icrası aşamasında
@@ -36,7 +36,7 @@
                 eşsiz
                 hukuki danışmanlık hizmetini sunmak üzere hazırdır.</p>
 
-            <p>Unutulmamalıdır ki, ithalat ya da ihracat tarafı olmak gözetilmeksizin, uluslararası ticaret çok hassas
+            <p style="display: inline-block;margin-top: 4%;">Unutulmamalıdır ki, ithalat ya da ihracat tarafı olmak gözetilmeksizin, uluslararası ticaret çok hassas
                 bir
                 ticaret türü olup başta önemsiz gibi görünen ama dikkat edilmediği vakit katlanılamayacak büyük
                 zararlara

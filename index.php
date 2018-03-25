@@ -9,6 +9,11 @@
                 <p class="flex-caption">GÜRBÜZ & GÜRBÜZ Hukuk Bürosu
                     İstanbul'da kurulu bir Türk Hukuk Bürosudur.</p>
             </li>
+            <li data-thumb="assets/img/slider/4.jpg">
+                <img src="assets/img/slider/4.jpg">
+                <p class="flex-caption">GÜRBÜZ & GÜRBÜZ Hukuk Bürosu
+                    İstanbul'da kurulu bir Türk Hukuk Bürosudur.</p>
+            </li>
             <li data-thumb="assets/img/slider/5.jpg">
                 <img src="assets/img/slider/5.jpg">
                 <p class="flex-caption">SİZ ZAMANINIZIN KEYFİNİ ÇIKARIRKEN BİZ HUKUKİ UYUŞMAZLIKLARINIZI ÇÖZELİM.</p>
