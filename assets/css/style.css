@@ -61,6 +61,7 @@ strong { font-weight: bold; }
     text-align: left;
 }
 
+
 .header a.brand {
     display: inline-block;
     text-indent: -9999px;
@@ -68,8 +69,12 @@ strong { font-weight: bold; }
     height: 63px;
     padding: 30px 0;
     background: url(../img/logogurbuzyeni1.png) center center no-repeat;
-    margin-left: 35%;
+    /* margin-left: 35%; */
     background-size: contain;
+    text-align: center;
+    float: none;
+    margin-left: 30px;
+
 }
 
 
@@ -119,6 +124,10 @@ strong { font-weight: bold; }
     width: 95% !important;
     margin: 4% auto;
     height: 220px;
+}
+.img-width-full-sporhukuk{
+    width: 95% !important;
+    height: 335px;
 }
 
 .team-aciklama{
